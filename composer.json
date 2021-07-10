@@ -1,0 +1,19 @@
+{
+    "name": "pizza-project/mm",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Yanushevski",
+            "email": "Yasha85@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+  "autoload": {
+    "psr-4": {
+      "":""
+    }
+  }
+}
